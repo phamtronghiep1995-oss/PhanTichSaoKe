@@ -1,6 +1,10 @@
 {
-  "seq": 2,
-  "updated": "2026-11-04T09:44:06",
+  "seq": 3,
+  "updated": "2026-11-04T09:45:15",
   "accounts": {},
-  "signature": "725f7d069d327e048148ae82e16d79774ed2b401effede9b0ca771a62b51e50d"
+  "signature": "8d810a44203bd452d51470e9bd4cd2b74090df613e2f7c9fabbecc0138e68714",
+  "cfg": {
+    "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec"
+  },
+  "cfg_sig": "e9a11f28882f94f8256b2bc10ab488f1975b2088ecdeedcac0f9cdf7af8ca7eb"
 }
