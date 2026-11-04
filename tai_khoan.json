@@ -1,6 +1,6 @@
 {
-  "seq": 9,
-  "updated": "2026-11-04T11:23:22",
+  "seq": 10,
+  "updated": "2026-11-04T11:28:34",
   "accounts": {
     "c588ca9df4fbfa8c2a796232": {
       "s": "active",
@@ -9,9 +9,17 @@
       "ul": 0
     }
   },
-  "signature": "fcadbf759e59a06404dbf47034c4fcb452df3d151778c3ffd93fe9e887352657",
+  "signature": "3793a78db26fd16233f12e0390fd8746c51167fe2c1e4063860ce2d1e04f3a9f",
   "cfg": {
-    "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec"
+    "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec",
+    "notice": {
+      "id": "20261104112834",
+      "title": "ádasdsadasd",
+      "body": "ádsad",
+      "level": "warn",
+      "until": "2026-11-04",
+      "at": "04/11/2026 11:28"
+    }
   },
-  "cfg_sig": "e9a11f28882f94f8256b2bc10ab488f1975b2088ecdeedcac0f9cdf7af8ca7eb"
+  "cfg_sig": "2bf324ba1fea97a3c65dc3577a23ad871e223205ce5403007fb1ba9411db98df"
 }
