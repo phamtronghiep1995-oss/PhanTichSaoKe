@@ -1,6 +1,6 @@
 {
-  "seq": 10,
-  "updated": "2026-11-04T11:28:34",
+  "seq": 11,
+  "updated": "2026-11-04T11:28:39",
   "accounts": {
     "c588ca9df4fbfa8c2a796232": {
       "s": "active",
@@ -9,11 +9,11 @@
       "ul": 0
     }
   },
-  "signature": "3793a78db26fd16233f12e0390fd8746c51167fe2c1e4063860ce2d1e04f3a9f",
+  "signature": "6a9d43936d059cf5f9b593e87add301b98b10d0e01d0377582ff60091db976e5",
   "cfg": {
     "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec",
     "notice": {
-      "id": "20261104112834",
+      "id": "20261104112839",
       "title": "ádasdsadasd",
       "body": "ádsad",
       "level": "warn",
@@ -21,5 +21,5 @@
       "at": "04/11/2026 11:28"
     }
   },
-  "cfg_sig": "2bf324ba1fea97a3c65dc3577a23ad871e223205ce5403007fb1ba9411db98df"
+  "cfg_sig": "1e70f4f29c77174c08969b348920ee195023db1337a7396164d6d32825dc75ee"
 }
