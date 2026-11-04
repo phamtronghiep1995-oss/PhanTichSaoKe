@@ -1,15 +1,15 @@
 {
-  "seq": 5,
-  "updated": "2026-11-04T09:48:34",
+  "seq": 6,
+  "updated": "2026-11-04T09:53:07",
   "accounts": {
     "c588ca9df4fbfa8c2a796232": {
-      "s": "active",
+      "s": "locked",
       "exp": "20991231",
       "rs": 0,
       "ul": 0
     }
   },
-  "signature": "fd31e8f705b5910f87f54e4c0ec034b29e6aa9805d68d1094b185362cc297ecf",
+  "signature": "94a12308f4b6853ebd8af1aa727c2d8ace7fd42c9f893278bd659689b1e62a4d",
   "cfg": {
     "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec"
   },
