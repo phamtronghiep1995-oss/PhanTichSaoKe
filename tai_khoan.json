@@ -1,8 +1,13 @@
 {
-  "seq": 13,
-  "updated": "2026-11-04T22:29:15",
-  "accounts": {},
-  "signature": "418595e67c336548e42b7d2424a06d82e224cf3ad8a3f7e39825353c14bb7cbb",
+  "seq": 14,
+  "updated": "2026-11-04T22:29:46",
+  "accounts": {
+    "c588ca9df4fbfa8c2a796232": {
+      "s": "rejected",
+      "r": ""
+    }
+  },
+  "signature": "a80ad5bc055c009f1308dd615747170aa02d5143cec3314ac28543e16260c14f",
   "cfg": {
     "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec"
   },
