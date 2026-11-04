@@ -1,15 +1,8 @@
 {
-  "seq": 11,
-  "updated": "2026-11-04T11:28:39",
-  "accounts": {
-    "c588ca9df4fbfa8c2a796232": {
-      "s": "active",
-      "exp": "20991231",
-      "rs": 0,
-      "ul": 0
-    }
-  },
-  "signature": "6a9d43936d059cf5f9b593e87add301b98b10d0e01d0377582ff60091db976e5",
+  "seq": 12,
+  "updated": "2026-11-04T22:29:10",
+  "accounts": {},
+  "signature": "1a27d8df2b6455ece4d34a365923bb3f1f9089bcca7f05b49535de553693ec8a",
   "cfg": {
     "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec",
     "notice": {
