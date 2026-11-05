@@ -1,6 +1,6 @@
 {
-  "seq": 45,
-  "updated": "2026-11-05T17:54:56",
+  "seq": 46,
+  "updated": "2026-11-05T17:56:53",
   "accounts": {
     "a11dfc4b188412b1e2717425": {
       "s": "active",
@@ -38,6 +38,12 @@
       "rs": 0,
       "ul": 0
     },
+    "66359a132ee790a257850e7c": {
+      "s": "active",
+      "exp": "20270203",
+      "rs": 0,
+      "ul": 0
+    },
     "c588ca9df4fbfa8c2a796232": {
       "s": "rejected",
       "r": ""
@@ -51,7 +57,7 @@
       "r": ""
     }
   },
-  "signature": "5f5d50359cd687e448f639d9906d35c8cbaab2318a69de4d7aa368d87d6f1370",
+  "signature": "f39a366c91062bcd794380256b686b2c037552b947ec43249c175af34cbe1470",
   "cfg": {
     "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec"
   },
