@@ -1,6 +1,6 @@
 {
-  "seq": 36,
-  "updated": "2026-11-05T11:03:59",
+  "seq": 37,
+  "updated": "2026-11-05T11:04:10",
   "accounts": {
     "9bb3732a8a8602ce29b22a19": {
       "s": "active",
@@ -32,6 +32,12 @@
       "rs": 0,
       "ul": 0
     },
+    "8c87d3c7f29d0fc4289a0c7f": {
+      "s": "active",
+      "exp": "20991231",
+      "rs": 0,
+      "ul": 0
+    },
     "c588ca9df4fbfa8c2a796232": {
       "s": "rejected",
       "r": ""
@@ -41,7 +47,7 @@
       "r": "tuchoi"
     }
   },
-  "signature": "861d5bab90323a5927739ac34882aad6ef3298846307730e5c574c3b60c0c9a6",
+  "signature": "8175ceb26c74747b6566aaf770f2453b78a7ed0943089ddd16cfa8d8c1e6ac4c",
   "cfg": {
     "report_url": "https://script.google.com/macros/s/AKfycbzv7TtwLBOTEi2tsqJjYv8kdb4W-sRv09rzUVe3bUWpqMW1FEp3Bgq2GQGObS_JQvkt/exec"
   },
